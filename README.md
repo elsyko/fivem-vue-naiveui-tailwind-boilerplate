@@ -1,10 +1,10 @@
-# vue-naiveui-tailwind-boilerplate
+# fivem-vue-naiveui-tailwind-boilerplate
 
 This is a boilerplate for Vue3.js using Vite, NaiveUI Framework, and Tailwind for FiveM projects.
 
 ## Table of Contents
 
-- [vue-naiveui-tailwind-boilerplate](#vue-naiveui-tailwind-boilerplate)
+- [fivem-vue-naiveui-tailwind-boilerplate](#fivem-vue-naiveui-tailwind-boilerplate)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
