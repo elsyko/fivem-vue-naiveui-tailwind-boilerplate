@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #3068D0;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+::selection {
+    background: var(--primary);
+}
+
+.dev {
+    border: 1px solid red;
+}
+
+body, html, #app {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    color: white;
+}
