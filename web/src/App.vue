@@ -35,10 +35,10 @@ export default {
     setup() {
         const themeOverrides = {
             common: {
-                primaryColor: '#3068D0FF',
-                primaryColorHover: "#3068D0FF",
-				primaryColorPressed: "#3068D0FF",
-				primaryColorSuppl: "#3068D0FF",
+                primaryColor: '#4498FF',
+                primaryColorHover: "#4498FF",
+				primaryColorPressed: "#4498FF",
+				primaryColorSuppl: "#4498FF",
             },
         }
 

@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#3068D0",
+        primary: "#4498FF",
       },
       keyframes: {
         wiggle: {
